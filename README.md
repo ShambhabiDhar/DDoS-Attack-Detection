@@ -15,6 +15,7 @@ The most obvious symptom of a DDoS attack is a site or service suddenly becoming
 A flood of traffic from users who share a single behavioural profile, such as device type, geolocation, or web browser version. An unexplained surge in requests to a single page or endpoint. Odd traffic patterns such as spikes at odd hours of the day or patterns that appear to be unnatural (e.g. a spike every 10 minutes). There are other, more specific signs of DDoS attack that can vary depending on the type of attack.
 
 METHOLOGY:
+
 Dataset Used: 
 SDN Dataset 
 (https://www.kaggle.com/code/aikenkazin/ddos-attack-detection-classification/data)
