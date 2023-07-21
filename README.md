@@ -14,10 +14,10 @@ DDoS attacks are carried out with networks of Internet-connected machines. These
 The most obvious symptom of a DDoS attack is a site or service suddenly becoming slow or unavailable. But since a number of causes — such a legitimate spike in traffic — can create similar performance issues, further investigation is usually required. Traffic analytics tools can help you spot some of these tell-tale signs of a DDoS attack: Suspicious amounts of traffic originating from a single IP address or IP range
 A flood of traffic from users who share a single behavioural profile, such as device type, geolocation, or web browser version. An unexplained surge in requests to a single page or endpoint. Odd traffic patterns such as spikes at odd hours of the day or patterns that appear to be unnatural (e.g. a spike every 10 minutes). There are other, more specific signs of DDoS attack that can vary depending on the type of attack.
 
-![image](https://github.com/ShambhabiDhar/DDoS-Attack-Detection/assets/109088874/3412d4e3-6310-4fe0-b9ab-8ee04e49c392)
-
+METHOLOGY:
 Dataset Used: 
-SDN Dataset (https://www.kaggle.com/code/aikenkazin/ddos-attack-detection-classification/data)
+SDN Dataset 
+(https://www.kaggle.com/code/aikenkazin/ddos-attack-detection-classification/data)
 Algorithms used: 
 Random Forest
 KNN 
